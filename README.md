@@ -40,7 +40,7 @@ VS Code, Postman, IntelliJ IDEA, Git, GitHub, MySQL Workbench
 ### 🛍️ Price Radar  
 A smart shopping assistant that aggregates products from multiple e-commerce platforms into one unified interface. Helps online shoppers compare prices and find the best deals effortlessly.  
 **Tech Stack:** Python, Django, React, Tailwind CSS  
-🔗 [GitHub Repo](#) *https://github.com/MaazS7/Price_radar*
+🔗 (#) *https://github.com/MaazS7/Price_radar*
 
 ### 🏫 Student Fee Management System  
 A complete system for schools to manage student fees, track payments, generate invoices, and automate reminders. Designed to reduce manual work and errors.  
@@ -53,9 +53,6 @@ A powerful Point of Sale system for retail stores — handles inventory tracking
 ---
 
 ## 📈 GitHub Stats
-
-![Your GitHub stats](![Maaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaazS7&icons=true&theme=radical)
-)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaazS7&layout=compact&theme=default)
 
