@@ -6,7 +6,7 @@
 
 ## 📖 About Me
 
-I’m a passionate **Full Stack Developer** who loves building real-world web applications that solve everyday problems. I hold a **BSCS** degree from ** **National Univeristy of Modern Languages**, and I’ve worked extensively with modern web technologies.
+I’m a passionate **Full Stack Developer** who loves building real-world web applications that solve everyday problems. I hold a **BSCS** degree from **National Univeristy of Modern Languages**, and I’ve worked extensively with modern web technologies.
 
 Currently:
 
@@ -54,7 +54,7 @@ A powerful Point of Sale system for retail stores — handles inventory tracking
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](![Maaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaazS7_icons=true&theme=radical)
+![Your GitHub stats](![Maaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaazS7&icons=true&theme=radical)
 )
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaazS7&layout=compact&theme=default)
@@ -63,7 +63,7 @@ A powerful Point of Sale system for retail stores — handles inventory tracking
 
 ## 📫 How to Reach Me
 
-📧 **Email:** your-email@example.com *maazsha77@gmail.com*  
+📧 **Email:** *maazsha77@gmail.com*  
 
 ---
 
